@@ -8,7 +8,7 @@ import argparse
 import shutil
 import sys
 
-from MultiLabel_model import MultiLabel
+from model import MultiLabel
 from radam import RAdam
 from utils import Logger
 from sklearn.metrics import precision_recall_fscore_support, accuracy_score
