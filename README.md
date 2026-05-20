@@ -1,4 +1,4 @@
 # MWS-MF
-多模态-骨髓网染预测
 
-运行main.py脚本，可进行训练及推理预测
+Multimodal - Prediction of Reticular Fiber Staining Patterns in Bone Marrow Aspirates 
+Run the main.py script to conduct training and perform inference predictions.
